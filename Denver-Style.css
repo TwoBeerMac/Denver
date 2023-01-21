@@ -1,0 +1,41 @@
+body {background-color: #272635;
+font-family: "nunito", sans-serif;}
+
+#MainNavBar .navbar-brand {color: #FBDAE4;}
+
+#MainNavBar {font-size: 1.5rem;
+font-weight: 100;}
+
+#MainNavBar .nav-link {color: #FDEDF2}
+
+#MainNavBar .nav-link:hover {color: #DC1856;}
+
+#heading-group span {color: #DC1856;}
+
+#heading-group h1 {font-weight: 100;
+font-size: 3em;}
+
+.navbar.scrolled {background: rgb(30, 35, 46);
+transition: background 500ms;}
+
+@media (max-width: 1200px) 
+    {#heading-group h1 {font-weight: 100;
+        font-size: 2em;}
+    }
+
+.sectiontext h2 {color: #FDEDF2;
+margin-bottom: 1rem;
+font-weight: 100;
+font-size: 2.25rem;}
+
+.sectiontext p {color: #FDEDF2;
+margin-top: 1rem;
+font-weight: 100;
+font-size: 1.125rem;
+line-height: 2;}
+
+#trophy-icon {color: #DC1856;
+font-size: 3rem;}
+
+.sectcontent {margin-bottom: 60px;
+margin-top: 60px;}
